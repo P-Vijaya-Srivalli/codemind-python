@@ -7,6 +7,5 @@ while(n>0 or sum>9):
     else:
         sum=sum+n%10
         n=n//10
-print(sum)    
-      
-    
+print(sum)        
+        
